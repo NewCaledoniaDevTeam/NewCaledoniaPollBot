@@ -1,7 +1,7 @@
 # New Caledonia Poll Bot
 
 ## About
-KatBot runs on the **discord.js** libaray with **Commando** support.
+New Caledonia Poll Bot runs on the **discord.js** libaray with **Commando** support.
 
 ## Features
 - Reaction based voting with :thumbsup:, :thumbsdown:, :shrug:
